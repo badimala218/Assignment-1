@@ -10,20 +10,16 @@ It outlines the innovative solutions they provide:
 
 #### Our Team:
 Justin Case  
-_CTO_  
-_IX Inc._
+_CTO, IX Inc._
 
 Agnes  
-_Vice President_  
-_Accounting_
+_Vice President, Accounting_
 
 Herbert  
-_Director_  
-_Human Resources_
+_Director, Human Resources_
 
 Mike  
-_Vice President_  
-_Marketing_
+_Vice President, Marketing_
 
 Ferris  
 _Founder and CEO_
