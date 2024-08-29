@@ -3,7 +3,7 @@
 ### "First" web-page of **Vecta Corp**.  
 Home webpage for Vecta Corp.  
 
-It outlines the innovative solutions they provide:
+It outlines the innovative solutions they provide:  
 * vProspect 2.0
 * vConvert 2.0  
 * vRetain 1.0
